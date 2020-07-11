@@ -11,9 +11,13 @@ class User extends Authenticatable
 {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     use HasApiTokens, Notifiable;
 =======
     use HasApiTokens,Notifiable;
+>>>>>>> lession-46
+=======
+    use HasApiTokens, Notifiable;
 >>>>>>> lession-46
 
     /**
