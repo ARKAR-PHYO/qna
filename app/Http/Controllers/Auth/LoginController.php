@@ -6,7 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Providers\RouteServiceProvider;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use Illuminate\Support\Facades\Route;
-use Illuminate\Http\Request;
+use Illuminate\Http\Request; 
 <<<<<<< HEAD
 use Psr\Http\Message\ServerRequestInterface;
 =======
